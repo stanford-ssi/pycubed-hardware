@@ -1,2 +1,7 @@
-*.bak
-*.kicad_pcb-bak
+# kicad stuff
+**/*.bak
+**/*.kicad_pcb-bak
+**/*fp-info-cache
+
+# macos
+**/.DS_Store
